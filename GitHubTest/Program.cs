@@ -12,6 +12,7 @@ namespace GitHubTest
         {
             Console.WriteLine("Знакомство с GitHub");
             Console.WriteLine("Проверка изменений на сервере");
+            Console.WriteLine("Проверка командной работы");
         }
     }
 }
