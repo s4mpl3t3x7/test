@@ -10,7 +10,7 @@ namespace GitHubTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("OK GitHub");
+            Console.WriteLine("Hello GitHub");
             Console.WriteLine("Проверка изменений на сервере");
             Console.WriteLine("Проверка командной работы");
         }
